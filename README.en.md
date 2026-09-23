@@ -60,7 +60,7 @@ A title may grow nearly to the scale of an image and overlap it. Secondary type 
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-239 --skill xxd-panel-239
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-239 --skill xxd-panel-239
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-239`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
