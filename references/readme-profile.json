@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 239｜Misregistered Spot-Colour Poster: re-observes a photo as an experimental independent-magazine poster in risograph and screen-print language — the subject cropped, enlarged, partly hidden or reduced to its most memorable part, keeping a soft analogue photo feel under two to four spot colours from the photo, translucent overprints, visible halftone dots, slight misregistration, ink bleed and faint photocopy noise — in an asymmetric layout with large negative space on warm off-white uncoated paper, where a big, rounded grotesk headline grows almost to the scale of the image and overlaps it, against tiny supporting text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-239 or asks for risograph, halftone spot-colour or big-type editorial posters from a photo.",
+  "short_description": "专色错版海报：把照片做成网点、错版、大字当图形的专色孔版实验海报",
+  "zh-CN": {
+    "name": "专色错版海报",
+    "tagline": "把照片做成一张专色孔版实验海报：大字当图形，网点、错版、暖白纸。",
+    "look": "照片主体被重新观察一遍：可以裁切、放大、遮挡，或只留最有记忆点的局部，保留柔和的模拟影像感，再用 Risograph 和丝网的语言重新印一遍。看得见两到四种从照片提炼的专色、半透明叠印出的新中间色、明显的半调网点、轻微错版、墨迹渗边和细微的复印噪点。构图不对称，留白很大，所有元素围绕一个视觉中心。标题用宽厚圆润的 Grotesk 字体，可以大到接近图形，和图像互相遮挡、穿插，辅助小字则极小极轻。底是温暖的未涂布米白纸，带纸纤维和有意为之的小瑕疵。",
+    "traits": [
+      "孔版专色",
+      "半调网点",
+      "错版叠印",
+      "大字图形",
+      "暖白纸",
+      "不对称编辑"
+    ],
+    "good": [
+      "主体鲜明、裁切后仍好认的照片：一张侧脸、一只手、一辆单车、一只鸟",
+      "有标题感或口号感的瞬间：跳跃的人、演出现场、街头一角",
+      "想做独立杂志封面、展览海报、乐队或活动海报的照片"
+    ],
+    "poor": [
+      "需要清晰还原细节和真实色彩的照片：产品图、证件照、美食摄影",
+      "需要承载大量文字信息的海报，这里只有一个大标题和极少辅助字",
+      "想要整洁商业模板、光滑数字感或复古做旧效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Misregistered Spot-Colour Poster",
+    "tagline": "Turns a photo into an experimental spot-colour print poster with big type, halftone and misregistration.",
+    "look": "Your subject is looked at again: it may be cropped, enlarged, partly hidden or reduced to its most memorable part, keeping a soft analogue photo feel, then reprinted in risograph and screen-print language. You can see two to four spot colours drawn from the photo, new in-between colours where translucent inks overlap, visible halftone dots, slight misregistration, ink bleed and faint photocopy noise. The layout is asymmetric with plenty of empty space, and everything revolves around one visual centre. The headline is set in a broad, rounded grotesk and can grow almost to the size of the image, overlapping or tucking behind it, while supporting text stays tiny and light. The ground is warm off-white uncoated paper with fibres and small, deliberate imperfections.",
+    "traits": [
+      "Risograph spot colour",
+      "Halftone dots",
+      "Misregistered overprint",
+      "Type as image",
+      "Warm white paper",
+      "Asymmetric editorial"
+    ],
+    "good": [
+      "Photos with a bold subject that stays recognisable when cropped: a profile, a hand, a bicycle, a bird",
+      "Moments that feel like a headline or a slogan: someone jumping, a live show, a street corner",
+      "Photos you want as an indie magazine cover, an exhibition poster or a gig or event poster"
+    ],
+    "poor": [
+      "Photos that need clear detail and true colour: product shots, ID photos, food photography",
+      "Posters that must carry lots of text, since there is one big headline and very little else",
+      "Requests for a neat commercial template, a slick digital finish or a distressed vintage look"
+    ]
+  },
+  "ja": {
+    "name": "特色の版ずれポスター",
+    "tagline": "写真を、文字が図になる特色孔版の実験ポスターにします。網点、版ずれ、暖かな紙。",
+    "look": "主役をもう一度見直します。切ったり、拡大したり、隠したり、いちばん印象的な部分だけを残したりしてよく、柔らかなアナログ写真の感じを残したまま、リソグラフやシルクスクリーンの言葉で刷り直します。写真から取った特色二〜四色、半透明のインクが重なってできる新しい中間色、はっきりした網点、わずかな版ずれ、インクのにじみ、かすかなコピーのノイズが見えます。構図は非対称で余白が大きく、すべてが一つの視覚の中心をめぐります。見出しは幅広で丸みのあるグロテスク体で、図とほぼ同じ大きさまで大きくなり、画像と重なったり裏に回ったりします。補助の文字はごく小さく軽く。地は暖かいオフホワイトの非塗工紙で、紙の繊維と意図された小さな不完全さがあります。",
+    "traits": [
+      "孔版の特色",
+      "網点",
+      "版ずれの重ね刷り",
+      "文字が図になる",
+      "暖かな白い紙",
+      "非対称の編集"
+    ],
+    "good": [
+      "主役がはっきりしていて、切り取ってもわかる写真：横顔、手、自転車、鳥",
+      "見出しやスローガンのような瞬間：ジャンプする人、ライブ会場、街角",
+      "インディー雑誌の表紙、展覧会ポスター、バンドやイベントのポスターにしたい写真"
+    ],
+    "poor": [
+      "細部と本来の色をはっきり再現したい写真：商品写真、証明写真、料理写真",
+      "たくさんの文字情報を載せたいポスター（大きな見出しとごく少しの補助文字だけです）",
+      "整った商業テンプレート、つるっとしたデジタル感、古びた加工を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "별색 어긋남 포스터",
+    "tagline": "사진을 글자가 그림이 되는 별색 공판 실험 포스터로 만듭니다. 망점, 판 어긋남, 따뜻한 종이.",
+    "look": "주인공을 다시 들여다봅니다. 자르고, 키우고, 가리거나 가장 기억에 남는 부분만 남겨도 되며, 부드러운 아날로그 사진 느낌을 지닌 채 리소그래프와 실크스크린의 언어로 다시 찍어 냅니다. 사진에서 뽑은 별색 두세 가지에서 네 가지, 반투명 잉크가 겹치며 생긴 새로운 중간색, 뚜렷한 망점, 살짝 어긋난 판, 잉크 번짐, 희미한 복사기 노이즈가 보입니다. 구도는 비대칭이고 여백이 넓으며, 모든 요소가 하나의 시각 중심을 돕니다. 제목은 넓고 둥근 그로테스크 서체로 그림에 가까운 크기까지 커져 이미지와 겹치거나 뒤로 숨고, 보조 글자는 아주 작고 가볍습니다. 바탕은 따뜻한 오프화이트 비코팅 종이로, 종이 섬유와 의도된 작은 흠이 있습니다.",
+    "traits": [
+      "공판 별색",
+      "망점",
+      "어긋난 겹쳐 찍기",
+      "글자가 곧 그림",
+      "따뜻한 흰 종이",
+      "비대칭 편집"
+    ],
+    "good": [
+      "주인공이 뚜렷하고 잘라도 알아볼 수 있는 사진: 옆얼굴, 손, 자전거, 새",
+      "제목이나 구호 같은 순간: 점프하는 사람, 공연 현장, 거리 한 모퉁이",
+      "독립 잡지 표지, 전시 포스터, 밴드나 행사 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부와 실제 색을 또렷이 살려야 하는 사진: 제품 사진, 증명사진, 음식 사진",
+      "글자 정보가 많이 들어가야 하는 포스터(큰 제목 하나와 아주 적은 보조 글자뿐입니다)",
+      "깔끔한 상업 템플릿, 매끈한 디지털 마감, 낡게 만든 빈티지 효과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ملصق بألوان موضعية وطباعة منزاحة",
+    "tagline": "يحوّل الصورة إلى ملصق تجريبي مطبوع بألوان موضعية: الحرف صورة، ونقاط شبكية، وانزياح، وورق دافئ.",
+    "look": "يُعاد النظر في العنصر الرئيسي: قد يُقتطع أو يُكبّر أو يُحجب جزئياً أو يُختزل إلى أبرز أجزائه، مع الحفاظ على إحساس الصورة التناظرية الناعم، ثم يُعاد طبعه بلغة الريزوغراف والطباعة الحريرية. تظهر ألوان موضعية من اثنين إلى أربعة مستخلصة من الصورة، وألوان وسيطة جديدة حيث تتراكب الأحبار الشفافة، ونقاط شبكية واضحة، وانزياح طفيف، ونزّ حبر، وضجيج خفيف كالنسخ الضوئي. التكوين غير متناظر والفراغ واسع، وكل العناصر تدور حول مركز بصري واحد. العنوان بخط غروتسك عريض مستدير قد يكبر حتى يقارب حجم الصورة، فيتراكب معها أو يختفي خلفها، بينما يبقى النص المساعد صغيراً جداً وخفيفاً. الخلفية ورق غير مطلي بأبيض دافئ، فيه ألياف وعيوب صغيرة مقصودة.",
+    "traits": [
+      "ريزوغراف بألوان موضعية",
+      "نقاط شبكية",
+      "تراكب منزاح",
+      "الحرف صورة",
+      "ورق أبيض دافئ",
+      "تحرير غير متناظر"
+    ],
+    "good": [
+      "صور فيها عنصر جريء يبقى واضحاً بعد الاقتطاع: وجه جانبي، يد، دراجة، طائر",
+      "لحظات تشبه العنوان أو الشعار: شخص يقفز، حفل موسيقي، ناصية شارع",
+      "صور تريدها غلاف مجلة مستقلة أو ملصق معرض أو ملصقاً لفرقة أو فعالية"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل واضحة وألوان حقيقية: صور المنتجات، صور الهوية، تصوير الطعام",
+      "ملصقات يجب أن تحمل نصوصاً كثيرة، إذ لا يوجد إلا عنوان كبير وقليل جداً غيره",
+      "طلب قالب تجاري مرتب أو لمسة رقمية مصقولة أو مظهر عتيق مصطنع"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-239
-description: "Create XXD Panel 239 raster artwork: a faithful photograph paired with a contemporary editorial poster in limited spot-colour Risograph or screen print, with halftone, slight misregistration, oversized grotesk type and large negative space on warm uncoated paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-239 or asks for this 专色错版海报 style."
+description: "XXD Panel 239｜Misregistered Spot-Colour Poster: re-observes a photo as an experimental independent-magazine poster in risograph and screen-print language — the subject cropped, enlarged, partly hidden or reduced to its most memorable part, keeping a soft analogue photo feel under two to four spot colours from the photo, translucent overprints, visible halftone dots, slight misregistration, ink bleed and faint photocopy noise — in an asymmetric layout with large negative space on warm off-white uncoated paper, where a big, rounded grotesk headline grows almost to the scale of the image and overlaps it, against tiny supporting text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-239 or asks for risograph, halftone spot-colour or big-type editorial posters from a photo."
 ---
 
 # XXD Panel 239
